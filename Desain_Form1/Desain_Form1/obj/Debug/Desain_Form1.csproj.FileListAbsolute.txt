@@ -1,0 +1,9 @@
+G:\C#\Desain_Form1\Desain_Form1\bin\Debug\Desain_Form1.exe.config
+G:\C#\Desain_Form1\Desain_Form1\bin\Debug\Desain_Form1.exe
+G:\C#\Desain_Form1\Desain_Form1\bin\Debug\Desain_Form1.pdb
+G:\C#\Desain_Form1\Desain_Form1\obj\Debug\Desain_Form1.csprojResolveAssemblyReference.cache
+G:\C#\Desain_Form1\Desain_Form1\obj\Debug\Desain_Form1.Form1.resources
+G:\C#\Desain_Form1\Desain_Form1\obj\Debug\Desain_Form1.Properties.Resources.resources
+G:\C#\Desain_Form1\Desain_Form1\obj\Debug\Desain_Form1.csproj.GenerateResource.Cache
+G:\C#\Desain_Form1\Desain_Form1\obj\Debug\Desain_Form1.exe
+G:\C#\Desain_Form1\Desain_Form1\obj\Debug\Desain_Form1.pdb
