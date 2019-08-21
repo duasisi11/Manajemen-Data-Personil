@@ -1,0 +1,40 @@
+c:\users\toshiba\documents\visual studio 2013\Projects\PERSONIL\PERSONIL\bin\Debug\PERSONIL.exe.config
+c:\users\toshiba\documents\visual studio 2013\Projects\PERSONIL\PERSONIL\bin\Debug\PERSONIL.exe
+c:\users\toshiba\documents\visual studio 2013\Projects\PERSONIL\PERSONIL\bin\Debug\PERSONIL.pdb
+c:\users\toshiba\documents\visual studio 2013\Projects\PERSONIL\PERSONIL\obj\Debug\PERSONIL.Form1.resources
+c:\users\toshiba\documents\visual studio 2013\Projects\PERSONIL\PERSONIL\obj\Debug\PERSONIL.Properties.Resources.resources
+c:\users\toshiba\documents\visual studio 2013\Projects\PERSONIL\PERSONIL\obj\Debug\PERSONIL.csproj.GenerateResource.Cache
+c:\users\toshiba\documents\visual studio 2013\Projects\PERSONIL\PERSONIL\obj\Debug\PERSONIL.exe
+c:\users\toshiba\documents\visual studio 2013\Projects\PERSONIL\PERSONIL\obj\Debug\PERSONIL.pdb
+c:\users\toshiba\documents\visual studio 2013\Projects\PERSONIL\PERSONIL\obj\Debug\PERSONIL.DataPokok.resources
+C:\Users\TOSHIBA\documents\visual studio 2013\Projects\PERSONIL\PERSONIL\obj\Debug\PERSONIL.Kartu_Identitas.resources
+C:\Users\TOSHIBA\documents\visual studio 2013\Projects\PERSONIL\PERSONIL\obj\Debug\PERSONIL.Riwayat_Pangkat.resources
+C:\Users\TOSHIBA\documents\visual studio 2013\Projects\PERSONIL\PERSONIL\obj\Debug\PERSONIL.Satuan_Kerja.resources
+C:\Users\TOSHIBA\documents\visual studio 2013\Projects\PERSONIL\PERSONIL\obj\Debug\PERSONIL.Pendidikan_mil_pembentukan.resources
+C:\Users\TOSHIBA\documents\visual studio 2013\Projects\PERSONIL\PERSONIL\obj\Debug\PERSONIL.Pendidikan_Umum.resources
+C:\Users\TOSHIBA\documents\visual studio 2013\Projects\PERSONIL\PERSONIL\obj\Debug\PERSONIL.Riwayat_Jabatan.resources
+C:\Users\TOSHIBA\documents\visual studio 2013\Projects\PERSONIL\PERSONIL\obj\Debug\PERSONIL.AdminForm.resources
+C:\Users\TOSHIBA\documents\visual studio 2013\Projects\PERSONIL\PERSONIL\obj\Debug\PERSONIL.LoginForm.resources
+C:\Users\TOSHIBA\documents\visual studio 2013\Projects\PERSONIL\PERSONIL\obj\Debug\PERSONIL.RekapDataPersonil.resources
+C:\Users\TOSHIBA\documents\visual studio 2013\Projects\PERSONIL\PERSONIL\obj\Debug\PERSONIL.csprojResolveAssemblyReference.cache
+C:\Users\TOSHIBA\Documents\Visual Studio 2013\Projects\PERSONIL\PERSONIL\obj\Debug\PERSONIL.Riwayat_Keluarga.resources
+D:\Manajemen-Data-Personil\PERSONIL\PERSONIL\bin\Debug\PERSONIL.exe.config
+D:\Manajemen-Data-Personil\PERSONIL\PERSONIL\bin\Debug\PERSONIL.exe
+D:\Manajemen-Data-Personil\PERSONIL\PERSONIL\bin\Debug\PERSONIL.pdb
+D:\Manajemen-Data-Personil\PERSONIL\PERSONIL\obj\Debug\PERSONIL.csprojResolveAssemblyReference.cache
+D:\Manajemen-Data-Personil\PERSONIL\PERSONIL\obj\Debug\PERSONIL.AdminForm.resources
+D:\Manajemen-Data-Personil\PERSONIL\PERSONIL\obj\Debug\PERSONIL.DataPokok.resources
+D:\Manajemen-Data-Personil\PERSONIL\PERSONIL\obj\Debug\PERSONIL.Form1.resources
+D:\Manajemen-Data-Personil\PERSONIL\PERSONIL\obj\Debug\PERSONIL.Kartu_Identitas.resources
+D:\Manajemen-Data-Personil\PERSONIL\PERSONIL\obj\Debug\PERSONIL.LoginForm.resources
+D:\Manajemen-Data-Personil\PERSONIL\PERSONIL\obj\Debug\PERSONIL.Pendidikan_mil_pembentukan.resources
+D:\Manajemen-Data-Personil\PERSONIL\PERSONIL\obj\Debug\PERSONIL.Pendidikan_Umum.resources
+D:\Manajemen-Data-Personil\PERSONIL\PERSONIL\obj\Debug\PERSONIL.Properties.Resources.resources
+D:\Manajemen-Data-Personil\PERSONIL\PERSONIL\obj\Debug\PERSONIL.RekapDataPersonil.resources
+D:\Manajemen-Data-Personil\PERSONIL\PERSONIL\obj\Debug\PERSONIL.Riwayat_Jabatan.resources
+D:\Manajemen-Data-Personil\PERSONIL\PERSONIL\obj\Debug\PERSONIL.Riwayat_Keluarga.resources
+D:\Manajemen-Data-Personil\PERSONIL\PERSONIL\obj\Debug\PERSONIL.Riwayat_Pangkat.resources
+D:\Manajemen-Data-Personil\PERSONIL\PERSONIL\obj\Debug\PERSONIL.Satuan_Kerja.resources
+D:\Manajemen-Data-Personil\PERSONIL\PERSONIL\obj\Debug\PERSONIL.csproj.GenerateResource.Cache
+D:\Manajemen-Data-Personil\PERSONIL\PERSONIL\obj\Debug\PERSONIL.exe
+D:\Manajemen-Data-Personil\PERSONIL\PERSONIL\obj\Debug\PERSONIL.pdb
