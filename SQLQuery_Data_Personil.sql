@@ -116,7 +116,8 @@ CREATE TABLE [Riwayat_Pendidikan] (
   [tahun] varchar(5),
   [keterangan] text,
   [nip_nrp] varchar(20) constraint fk_nip_nrp4 references Personil(nip_nrp),
-  [id_kategori] int constraint fk_id_kategori references Kategori_Pendidikan(id_kategori) 
+  [id_kategori] int constraint fk_id_kategori references Kategori_Pendidikan(id_kategori), 
+  PRIMARY KEY ([id_riw_pend])
 );
 
 CREATE TABLE [Riwayat_Tanda_Jasa] (
